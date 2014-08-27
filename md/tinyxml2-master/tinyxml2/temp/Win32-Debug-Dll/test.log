@@ -1,0 +1,14 @@
+﻿生成启动时间为 7/28/2014 8:04:46 PM。
+     1>项目“E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D TINYXML2_IMPORT /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\temp\Win32-Debug-Dll\\" /Fd"E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\temp\Win32-Debug-Dll\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\xmltest.cpp
+         xmltest.cpp
+       Link:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\bin\Win32-Debug-Dll\test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\bin\Win32-Debug-Dll\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\bin\Win32-Debug-Dll\test.lib" /MACHINE:X86 "E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\temp\Win32-Debug-Dll\xmltest.obj"
+         "E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\bin\Win32-Debug-Dll\tinyxml2.lib"
+         test.vcxproj -> E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\bin\Win32-Debug-Dll\test.exe
+     1>已完成生成项目“E:\ctp\pheux-master\md\tinyxml2-master\tinyxml2\test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.70

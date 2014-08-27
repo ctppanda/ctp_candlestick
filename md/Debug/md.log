@@ -1,0 +1,65 @@
+﻿生成启动时间为 8/24/2014 10:27:04 PM。
+     1>项目“E:\ctp\pheux-master\md\md.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I../ctpapi /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BarSerializer.cpp Strategy.cpp TextSerializer.cpp main.cpp
+         main.cpp
+     1>e:\ctp\pheux-master\ctpapi\thostftdcmdapi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(1069): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(2125): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(3294): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(4323): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(5319): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         TextSerializer.cpp
+     1>e:\ctp\pheux-master\ctpapi\thostftdcmdapi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(1069): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(2125): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(3294): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(4323): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(5319): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         Strategy.cpp
+     1>e:\ctp\pheux-master\ctpapi\thostftdcmdapi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(1069): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(2125): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(3294): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(4323): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(5319): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         BarSerializer.cpp
+     1>e:\ctp\pheux-master\ctpapi\thostftdcmdapi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(1069): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(2125): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(3294): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(4323): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\ctp\pheux-master\ctpapi\thostftdcuserapistruct.h(5319): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+       Link:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ctp\pheux-master\Debug\md.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\MySQL\MySQL Server 5.5\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib mysqlcppconn.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ctp\pheux-master\Debug\md.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ctp\pheux-master\Debug\md.lib" /MACHINE:X86 Debug\Account.obj
+         Debug\BarSerializer.obj
+         Debug\Config.obj
+         Debug\ConnectionPool.obj
+         Debug\Exchange.obj
+         Debug\Logger.obj
+         Debug\main.obj
+         Debug\MdAgent.obj
+         Debug\MdApi.obj
+         Debug\MdSpi.obj
+         Debug\Order.obj
+         Debug\OrderManager.obj
+         Debug\Position.obj
+         Debug\Strategy.obj
+         Debug\TextSerializer.obj
+         Debug\tinyxml2.obj
+         Debug\TraderAgent.obj
+         Debug\TraderApi.obj
+         Debug\TraderSpi.obj
+         ..\ctpapi\thostmduserapi.lib
+         ..\ctpapi\thosttraderapi.lib
+         md.vcxproj -> E:\ctp\pheux-master\Debug\md.exe
+     1>已完成生成项目“E:\ctp\pheux-master\md\md.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:29.69

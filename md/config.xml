@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+    <Accounts>
+        <Account id="MeiYaEr">
+            <MarketAddress>tcp://180.169.77.111:41213</MarketAddress>
+            <TraderAddress>tcp://180.169.77.112:40205</TraderAddress>
+            <Broker>2071</Broker>
+            <Investor>39400744</Investor>
+            <Password>123456</Password>
+            <contract>IF1409</contract>
+            <contract>IF1408</contract>
+            <sqlhost>tcp://127.0.0.1</sqlhost>
+            <sqlusername>root</sqlusername>
+            <sqlpassword>ABcd1234</sqlpassword>
+            <sqlport>3306</sqlport>
+            <sqlmaxcon>10</sqlmaxcon>
+        </Account>
+    </Accounts>
+</Config>
